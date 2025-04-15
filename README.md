@@ -1,36 +1,77 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🧸 Bare Minimum Hero — Landing Page
 
-## Getting Started
+Welcome to the official website of **Bare Minimum Hero** —  
+the Chrome extension that celebrates your smallest, laziest, most underwhelming achievements.
 
-First, run the development server:
+> _"You didn't do much. But you did something."_  
+> — the website, emotionally
+
+---
+
+## 💻 What is this?
+
+A dead simple landing page for a tool that gives you emotional validation for doing the bare minimum.  
+Because you deserve it. (Well, maybe. We're not checking.)
+
+Built with:
+
+- [Next.js](https://nextjs.org/) because of course it is  
+- [Tailwind CSS](https://tailwindcss.com/) for cozy pixel vibes  
+- No analytics, no pressure, just pixels
+
+---
+
+## 🧠 Features
+
+- One button. That's it.  
+- Minimal CSS. Minimal effort.  
+- Sarcasm included, no additional configuration required.  
+- Absolutely no business model.
+
+---
+
+## 🚀 Live Demo
+
+[bareminimumhero.com](https://bareminimumhero.com)
+
+In case you want to stare at validation in high resolution.
+
+---
+
+## 📦 Installation (if you're into that)
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
+git clone https://github.com/you/bare-minimum-landing.git
+cd bare-minimum-landing
+pnpm install
 pnpm dev
-# or
-bun dev
 ```
+But let's be honest, you're probably not cloning this. And that's okay.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📱 Coming Soon
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Android? Maybe.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+iOS? That's between us and Apple.
 
-## Learn More
+Mental stability? Unlikely.
 
-To learn more about Next.js, take a look at the following resources:
+## 🧠 Philosophy
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Some days you're not a rockstar.
+You're not a ninja.
+You're not even a "disruptor."
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+You're just here.
+And that's enough.
 
-## Deploy on Vercel
+## ✨ Credits
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Made with apathy and love by [you]
+Powered by vibes and ctrl + c
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 🧻 License
+
+MIT — use it, clone it, cry with it.
+Just don't pretend you made the sad star.
+We'll know.
