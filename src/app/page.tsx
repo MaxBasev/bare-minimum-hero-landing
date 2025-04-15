@@ -4,12 +4,12 @@ import Image from "next/image";
 import { motion } from 'framer-motion';
 import { useState } from 'react';
 
-// Animation variants for sections
+// Animation variants for sections - Simplified for performance
 const sectionVariants = {
-	hidden: { opacity: 0, y: 20 },
+	hidden: { opacity: 0 }, // Only fade
 	visible: (i: number = 1) => ({
 		opacity: 1,
-		y: 0,
+		// y: 0, // Removed y-translate
 		transition: {
 			delay: i * 0.2,
 			duration: 0.5,
